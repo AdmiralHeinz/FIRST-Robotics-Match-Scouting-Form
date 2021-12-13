@@ -15,9 +15,9 @@ using System.Windows.Shapes;
 
 namespace Match_Scouting_Form
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    ///Jakob Heinz
+    ///Match Scouting Form
+    ///Febuary 1, 2019
     public partial class MainWindow : Window
     {
         public MainWindow()
