@@ -13,11 +13,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+//Jakob Heinz
+//Match Scouting Form
+//Febuary 1, 2019
+
 namespace Match_Scouting_Form
 {
-    ///Jakob Heinz
-    ///Match Scouting Form
-    ///Febuary 1, 2019
     public partial class MainWindow : Window
     {
         public MainWindow()
